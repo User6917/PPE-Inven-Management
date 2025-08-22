@@ -37,22 +37,24 @@ The **Project Inventory Management System** is a JavaFX-based application that e
         `mvn javafx:run`
         `mvn exec:java`
 
-Usage
+## Usage
 
-    Login Screen: Authenticate with credentials.
-    Main Menu: Access different management modules.
-    Transaction Management: Record inventory transactions.
-    Supplier & Hospital Management: Track items received and distributed.
-    User Management: Modify user details (restricted based on permissions).
-    Reports: Generate transaction reports for analysis.
-    Default Users credential: admin:abcd1234 | User:password | Cat:password 
+- **Login Screen**: Authenticate with credentials.
+- **Main Menu**: Access different management modules.
+- **Transaction Management**: Record inventory transactions.
+- **Supplier & Hospital Management**: Track items received and distributed.
+- **User Management**: Modify user details (restricted based on permissions).
+- **Reports**: Generate transaction reports for analysis.
+- ***Default Users credential**: 
+    admin:abcd1234
+    User:password
+    Cat:password 
 
 ## Contributors
 
-- @User6917
+- [@User6917](https://github.com/User6917)
+- [@WebSinker](https://github.com/WebSinker)
 
-- @WebSinker
-
-License
+## License
 
 This project is licensed under the MIT License.
