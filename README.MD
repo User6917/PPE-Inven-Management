@@ -47,11 +47,11 @@ Usage
     Reports: Generate transaction reports for analysis.
     Default Users credential: admin:abcd1234 | User:password | Cat:password 
 
-Contributors
+## Contributors
 
-    @User6917
+- @User6917
 
-    @WebSinker
+- @WebSinker
 
 License
 
