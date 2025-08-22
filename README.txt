@@ -47,8 +47,8 @@ How to Use:
 
 Developer:
 ----------
-- Wong Chee Soon (Lead Developer)
-- Lee Yong Han
+- User6917 (Lead Developer)
+- WebSinker
 
 License:
 --------

@@ -49,9 +49,9 @@ Usage
 
 Contributors
 
-    Wong Chee Soon
+    @User6917
 
-    Lee Yong Han
+    @WebSinker
 
 License
 
