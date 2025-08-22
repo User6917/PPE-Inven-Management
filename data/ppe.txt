@@ -1,0 +1,8 @@
+Item Code,Item Name,Quantity (Boxes),Supplier Code,isActive
+HC,Head Cover,100,SP1,true
+FS,Face Shield,90,SP1,true
+MS,Mask,100,SP2,true
+GL,Gloves,100,SP2,true
+GW,Gown,100,SP3,true
+SC,Shoe Covers,100,SP3,true
+GG,Good game,100,SP4,true

@@ -1,0 +1,4 @@
+UserID,Name,Username,Password,UserType,Email,Phone,isActive
+1,(default),admin,$2a$12$ixD19O0vfHQ0lxjuSNXGce8CbWcvqFGWvvX3UBoYTikzUM5B8do7G,Admin,(default),(default),-
+2,User user,User,$2a$12$nWhfJ7XcGrZgoIOMrsOfFux4.TEdxxoOalwMCUjjCmnO8A92uILdS,Admin,fakeemail@gmail.com,0123456789,true
+3,Cat cat,Cat,$2a$12$m47uBzN33OaM5ef2mL9qA.M9i13ZK7zikwVy5oQD8cdZTwXZ9gQqi,Staff,fakeemail@gmail.com,0123456789,true

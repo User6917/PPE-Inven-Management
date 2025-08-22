@@ -1,0 +1,11 @@
+Supplier Code,Supplier Name,Item Code,Quantity,isActive
+SP1,Supplier 1,HC,100,true
+SP1,Supplier 1,FS,100,true
+SP2,Supplier 2,MS,100,true
+SP2,Supplier 2,GL,100,true
+SP3,Supplier 3,SC,100,true
+SP4,Supplier 3,GW,100,true
+SP4,Supplier 2,SC,100,true
+SP1,Supplier 1,HC,100,true
+SP2,Supplier 4,GL,100,ture
+SP1,Supplier 2,HC,100,true

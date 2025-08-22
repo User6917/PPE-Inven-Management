@@ -1,0 +1,4 @@
+Hospital Code,Hospital Name,Items Recieved (Total Boxes),HC,FS,MS,GL,GW,SC,isActive
+HP1,Hospital A,10,0,10,0,0,0,0,true
+HP2,Hospital B,0,0,0,0,0,0,0,true
+HP3,Hospital C,0,0,0,0,0,0,0,true

@@ -1,0 +1,7 @@
+{
+    "java.debug.settings.exceptionBreakpoint.skipClasses": [
+
+    ],
+    "java.debug.vmArgs": "--module-path C:/Users/wongc/.m2/repository/org/openjfx --add-modules javafx.controls,javafx.fxml",
+    "java.configuration.updateBuildConfiguration": "interactive"
+}
